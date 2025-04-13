@@ -1,0 +1,9 @@
+### Footprint positions - created on Thu Jun 29 11:20:33 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                 PosX       PosY       Rot  Side
+REF**     Fiducial  Fiducial            274.7500    -2.5000    0.0000  bottom
+REF**     Fiducial  Fiducial              5.0000    -2.5000    0.0000  bottom
+REF**     Fiducial  Fiducial              5.0000  -167.5000    0.0000  bottom
+## End

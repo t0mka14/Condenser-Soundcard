@@ -1,0 +1,31 @@
+{
+    "layout": {
+        "hspace": "2mm",
+        "vspace": "2mm",
+        "rows": "6",
+        "cols": "5",
+        "vbonecut": "False"
+    },
+    "tabs": {
+        "type": "annotation"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "offset": "0.25mm",
+        "prolong": "0.5mm"
+    },
+    "framing": {
+        "type": "frame",
+        "hspace": "3mm",
+        "vspace": "3mm"
+    },
+    "fiducials": {
+        "type": "3fid",
+        "hoffset": "5mm",
+        "voffset": "2.5mm",
+        "opening": "3mm"
+    },
+    "post": {
+        "millradius": "1mm"
+    }
+}

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "zvukovka")(type "KiCad")(uri "${KIPRJMOD}/zvukovka.kicad_sym")(options "")(descr ""))
+  (lib (name "shareLib")(type "KiCad")(uri "C:/Users/KlubHoven/OneDrive - České vysoké učení technické v Praze/Kicad/share_pre_amp/share_pre_amp/shareLib.kicad_sym")(options "")(descr ""))
+)
