@@ -5,10 +5,6 @@ High gain USB soundcard with 5V power for headset condenser microphones. This re
 ## Table of Contents
 
 - [Hardware](#hardware)
-  - [Z570M socket](#z570m-socket)
-  - [HV power supply board](#hv-power-supply)
-  - [Digits and HV5530 board](#digits-and-HV5530-board)
-  - [Control board](#control-board)
 - [Case](#case)
 
 ## Hardware
