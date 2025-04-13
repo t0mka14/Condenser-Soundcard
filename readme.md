@@ -33,6 +33,6 @@ Here is a frequency response measured using R&S UPV and Audacity. I used the UPV
 <img alt="Frequency response" src="img/freqv.jpg" width="100%"/>
 Since price for one of these PCM soundards is around 15$ i think it does quite good compared to 180$ Tascam DR-40X.
 I also measured the amplitude spectrum using ARTA, there is PCM
-<img alt="PCM2912" src="img/spek_PCM.png" width="100%"/>
+<img alt="PCM2912" src="img/spek_PCM.PNG" width="100%"/>
  and the DR-40X for comparison.
-<img alt="DR-40X" src="img/spek_dr40.png" width="100%"/>
+<img alt="DR-40X" src="img/spek_dr40.PNG" width="100%"/>
